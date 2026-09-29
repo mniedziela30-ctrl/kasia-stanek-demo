@@ -6,3 +6,6 @@ Statyczna wersja demonstracyjna nowego wyglądu strony katarzynastanek.pl.
 - strony mają meta robots noindex,nofollow,
 - finalne wdrożenie będzie wykonane jako motyw WordPress,
 - dane i cennik bazują na obecnej stronie katarzynastanek.pl.
+
+
+GitHub Pages deployment enabled.
